@@ -27,7 +27,7 @@ return {
   -- Then, because we use the `opts` key (recommended), the configuration runs
   -- after the plugin has been loaded as `require(MODULE).setup(opts)`.
 
-  --which-key used to be defined here
+  -- which-key used to be defined here
 
   -- NOTE: Plugins can specify dependencies.
   --
